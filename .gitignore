@@ -341,3 +341,4 @@ ASALocalRun/
 healthchecksdb
 /FlaskWeb/env
 /FlaskWebProject1/env
+/FlaskPolls/env
